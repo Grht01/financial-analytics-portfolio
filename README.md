@@ -25,8 +25,8 @@ quantitative analyst: assembling a clean, analytics-ready dataset; forecasting m
 conditions with GARCH; and comparing classical and deep-learning models for stock-return
 forecasting.
 
-I care about **reproducible workflows** — fixed data periods, documented sources, no-leakage
-validation, and honest model selection — so analysis can be re-run and defended, not just produced.
+I care about **reproducible workflows**, fixed data periods, documented sources, no-leakage
+validation, and honest model selection, so analysis can be re-run and defended, not just produced.
 
 ## Skills
 
